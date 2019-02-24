@@ -16,12 +16,12 @@
 
 #top .info .blue-square {
     border: 20px solid #dbf1ff;
-    width: 500px;
+    width: 1000px;
     height: 500px;
     position: absolute;
     z-index: -1;
     top: -70%;
-    left: -59%;
+    left: -159%;
 }
 
 #top .info h1 {
